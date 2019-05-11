@@ -28,3 +28,13 @@ scipy
 due to lack of ability to compute time series features.
 8. Dropped return inspections, as mandatory return inspections would not benefit from prioritization as much as random inspections and because return inspections follow
 a different distribution
+
+### Focused Text Exploration
+
+The purpose of this notebook was to explore the predictiveness of words that
+a human might expect to correlate with inspection failures.
+
+Other analysis was completed fitting various predictive models using the focused
+text but the features did not appear to have much benefit.
+
+All required data is included in this repo. 
