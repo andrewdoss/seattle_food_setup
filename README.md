@@ -9,13 +9,13 @@ data/ - the subdirectory where the data files go
 
 ### (non-standard) Required packages
 
-numpy
-pandas
-matplotlib
-seaborn
-usaddress
-nltk
-scipy
+numpy <br>
+pandas <br>
+matplotlib <br>
+seaborn <br>
+usaddress <br>
+nltk <br>
+scipy <br>
 
 ### Assumptions/preprocessing decisions:
 1. Dropped early years with very view reviews   
